@@ -1,0 +1,2 @@
+program uzywa biblioteki hashlib zamiast polecen z konsoli
+nie zadziala bez hash-.pdf

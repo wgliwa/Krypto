@@ -1,0 +1,7 @@
+python (3.9)
+
+program zaklada ze klucz ma dlugosc 64
+jesli mod64 z orig nie jest 0 to ostatnia linijka jest usuwana
+znaki w kolumnach bez spacji oznaczone jako _
+tekst originalny konwertowany do tylko liter, zakladane ze bez polskich znakow
+crypto zapisywane heksagonalnie
